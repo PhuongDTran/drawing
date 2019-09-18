@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/drawing/static/css/main.36af5723.chunk.css",
-    "main.js": "/drawing/static/js/main.2756167f.chunk.js",
-    "main.js.map": "/drawing/static/js/main.2756167f.chunk.js.map",
+    "main.js": "/drawing/static/js/main.84f1d364.chunk.js",
+    "main.js.map": "/drawing/static/js/main.84f1d364.chunk.js.map",
     "runtime~main.js": "/drawing/static/js/runtime~main.85a24b30.js",
     "runtime~main.js.map": "/drawing/static/js/runtime~main.85a24b30.js.map",
     "static/js/2.789494f8.chunk.js": "/drawing/static/js/2.789494f8.chunk.js",
     "static/js/2.789494f8.chunk.js.map": "/drawing/static/js/2.789494f8.chunk.js.map",
     "index.html": "/drawing/index.html",
-    "precache-manifest.6d5dc05f1c65c749e9c2365c74e2e862.js": "/drawing/precache-manifest.6d5dc05f1c65c749e9c2365c74e2e862.js",
+    "precache-manifest.924034a507882e7c2df3b508c8603233.js": "/drawing/precache-manifest.924034a507882e7c2df3b508c8603233.js",
     "service-worker.js": "/drawing/service-worker.js",
     "static/css/main.36af5723.chunk.css.map": "/drawing/static/css/main.36af5723.chunk.css.map"
   }
